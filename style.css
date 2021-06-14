@@ -149,7 +149,6 @@ input[type="text"]:focus{
     position: absolute;
     top: 39%;
     left: 16%;
-    text-align: center;
     color: #edffec;
 }
 
