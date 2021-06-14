@@ -268,10 +268,11 @@ output {
        width: 100px;
     }
 
-/*     .heart h3 {
+    .heart h3 {
         font-size: 1.4em;
+        left: 20%;
         
-    } */
+    }
  
 
 }
