@@ -183,7 +183,7 @@ output {
         left: 20px
     }
     .input-2 {
-        right: 15px;
+        right: 10px;
     }
 
     .input-1 label, .input-2 label { 
@@ -205,7 +205,7 @@ output {
     }
 
     .heart h3 {
-        font-size: 1.5em;
+        font-size: 1.6em;
         left: 17%;
         text-align: center;
     }
@@ -244,7 +244,7 @@ output {
 
     .input-2{
         top: 220px;
-        right: 40%;
+        right: 35%;
     }
 
     .input-1 label, .input-2 label{
@@ -270,10 +270,10 @@ output {
        width: 100px;
     }
 
-    .heart h3 {
+/*     .heart h3 {
         font-size: 1.7em;
         
-    }
+    } */
  
 
 }
